@@ -5,6 +5,6 @@
 
 ## 📜 AWS Certified Solutions Architect - Associate
 
-![AWS SAA 뱃지]()
+![AWS SAA 뱃지](https://user-images.githubusercontent.com/gyungwan/aws-saa-badge.png)
 
 🔗 [내 AWS 자격증 확인하기](https://www.credly.com/earner/dashboard)
