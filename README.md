@@ -1,10 +1,13 @@
+<br><br><br> <!-- 화면 아래로 내리기 위한 공백 -->
 
-//<img src="https://user-images.githubusercontent.com/113571059/228301132-0a149cf3-2326-4be1-8ecf-ae5ea1a93fe3.png" width="30%" //height="50%">
-
-<a href="버튼을 눌렀을 때 이동할 링크" target="_blank"><img src="https://img.shields.io/badge/뱃지레이블-배경색?style=뱃지모양&logo=로고&logoColor=로고색상"/></a>
+---
 
 ## 📜 AWS Certified Solutions Architect - Associate
 
-![AWS SAA 뱃지](https://github.com/gyungwan/gyungwan/issues/1)
+<p align="center">
+  <img src="https://raw.githubusercontent.com/gyungwan/gyungwan/main/aws-saa-badge.png" width="200">
+</p>
 
-🔗 [내 AWS 자격증 확인하기](https://www.credly.com/earner/dashboard)
+<p align="center">
+  🔗 <a href="https://www.credly.com/badges/8ce9f942-a01a-44f1-a84d-d47dabee0c75">내 AWS 자격증 확인하기</a>
+</p>
